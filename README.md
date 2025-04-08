@@ -22,7 +22,7 @@ The [AR.IO](http://AR.IO) Foundation functions as the steward of the network, ba
 
 Most applications will take the form of "Open Proposals" from members of the AR.IO community. Grants of up to $50,000 are available to fund ideas from individuals, teams and enterprises that support the growth, utility or adoption of [AR.IO](http://AR.IO) Network.
 
-Apply for an Open Grant || Please review Application Guidelines
+[Apply for an Open Grant]([url](https://github.com/ar-io/ar-io-grants/issues/new/choose)) || [Please review Application Guidelines]([url](https://github.com/ar-io/ar-io-grants?tab=readme-ov-file#open-proposal-application-guidelines))
 
 ---
 
@@ -30,9 +30,7 @@ Apply for an Open Grant || Please review Application Guidelines
 
 From time-to-time, the AR.IO Foundation will propose work request to the community in the form of an RFP. All community members, small teams and companies are welcome to apply. Responses from multiple teams are expected, the AR.IO Foundation will then select the best response(s) and award the work to the team (s) that submitted it.
 
-Open RFPs:
-
-- Info coming soon!
+More info on RFPs coming soon!
 
 ---
 
