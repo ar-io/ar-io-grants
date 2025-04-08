@@ -8,25 +8,20 @@ assignees: ""
 
 # AR.IO Foundation Open Grant Proposal
 
-## Project Overview
-
-**Project Name:**  
+**Project Name:**
 <!-- Provide a clear, concise name for your project -->
 
 **Team/Individual Name:**  
-<!-- Names of individual or team members working on this project -->
+<!-- Name of individual or entity submitting the proposal -->
 
 **Contact Information:**  
-<!-- Contact email, Discord handle, or other preferred contact method -->
+<!-- Email for primary point of contact -->
 
 **ARIO Payment Address:**  
 <!-- Wallet address where grant funds should be sent -->
 
-**Funding Amount Requested:** $  
+**Total Funding Amount Requested:** $  
 <!-- Amount in USD, will be converted to ARIO at time of payment -->
-
-**Funding Level:**  
-<!-- Select one: Small ($250-$5,000), Medium ($5,000-$25,000), or Large ($25,000-$50,000) -->
 
 **Focus Area(s):**  
 <!-- Select all that apply:
@@ -42,17 +37,10 @@ assignees: ""
 ### Summary
 <!-- Provide a brief (1-2 paragraph) summary of your project -->
 
-### Problem Statement
-<!-- What specific problem does your project solve for the AR.IO Network? -->
-
-### Solution
-<!-- Describe your proposed solution in detail -->
-
 ### Impact
 <!-- Explain how this project will positively impact the AR.IO Ecosystem -->
-
-### Technical Approach
-<!-- Provide technical details of how you will implement the solution -->
+<!-- Who is the target audience for your proposal and how are you planning to engage them? -->
+<!-- How will you measure the success of this project? What KPIs or metrics will you use? -->
 
 ### Differentiation
 <!-- How is your approach different/better than existing solutions (if any)? -->
@@ -66,60 +54,16 @@ assignees: ""
 
 <!-- Break down your project into clear milestones with deliverables and estimated completion dates -->
 <!-- For Medium and Large grants, payment will be made upon completion of each milestone -->
+<!-- Please copy and paste the sections below and complete for each milestone -->
 
-|
- Milestone 
-|
- Deliverables 
-|
- Estimated Completion 
-|
- Funding 
-|
-|
------------
-|
---------------
-|
-----------------------
-|
----------
-|
-|
- 1         
-|
-|
-|
- $       
-|
-|
- 2         
-|
-|
-|
- $       
-|
-|
- 3         
-|
-|
-|
- $       
-|
+### Milestone 1
 
-## Success Metrics
+#### Deliverables
 
-<!-- How will you measure the success of this project? What KPIs or metrics will you use? -->
+#### Funding Amount
 
-## Community Engagement
+#### Estimated Completion Timeline
 
-<!-- How will you engage with the AR.IO community during development? -->
-<!-- Will you be providing regular updates, documentation, tutorials, etc.? -->
-
-## Long-term Vision
-
-<!-- How do you see this project evolving beyond the grant period? -->
-<!-- What are your plans for maintenance and support? -->
 
 ## Additional Information
 
