@@ -1,4 +1,4 @@
-# [PUBLIC] AR.IO Foundation Grant Framework
+# AR.IO Foundation Grant Framework
 
 The AR.IO Foundation functions as the steward of the network, balancing its growth and development with a commitment to the community's needs and the network's foundational ethos. In support of this role, The AR.IO Foundation has developed a multi-level grants program to help empower and incentivise the AR.IO community to contribute to the Network's long-term success through research, development and maintenance of the AR.IO Network and associated projects and tools.
 
