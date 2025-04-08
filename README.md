@@ -4,7 +4,7 @@ The AR.IO Foundation functions as the steward of the network, balancing its grow
 
 ## Grant Guidelines
 
-The grants framework is designed to empower and reward the AR.IO community to contributes to the growth and adoption of AR.IO Network.
+The grants framework is designed to empower and reward the AR.IO community to contribute to the growth and adoption of AR.IO Network.
 
 | **Guidline** | **Description** |
 |--------------|-----------------|
