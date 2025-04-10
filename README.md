@@ -66,13 +66,13 @@ When making an application for a grant, it is important to consider how the elig
 #### Open Source requirement
 By default, all work funded via the grants program should be open-source and publicly available using one of the approaved licensisng options:
 
-1. Permissive Licenses - MIT or Apache 2.0
+1. **Permissive Licenses** - MIT or Apache 2.0
 Use for tools, libraries or widely resuable code
 
-2. Copyleft Licenses - GPLv3, AGPLv3 (for hosted services)
+2. **Copyleft Licenses** - GPLv3, AGPLv3 (for hosted services)
 Use for governance tools, infrastrucutre, or systems where opennes must be presereved.
 
-3. Dual Licensing (Recommended)
+3. **Dual Licensing (Recommended)**
 Combine a copyleft license (e.g. AGPLv3) with a permissive license (e.g. Apache 2.0). Encourages adoption while protecting openness.
 
 
