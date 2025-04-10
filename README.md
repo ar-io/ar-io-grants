@@ -96,6 +96,8 @@ Payments are usually processed within 14 days. Payments are made in ARIO to the 
 
 Grant applications can be amended by the Grants Committee. However, this necessitates a reevaluation by the committee.
 
+---
+
 ### Grants Committee
 
 Members of the AR.IO Foundation and Permanent Data Solutions Inc who understand the priorities of the ecosystem and can make required initial funding decisions based upon the guidelines of the grant program. This committee is a balance of technical and business focused contributors.
@@ -105,6 +107,8 @@ Members of the AR.IO Foundation and Permanent Data Solutions Inc who understand 
 - Design: [Lucas Porter-Bakker](https://x.com/porterbakker)
 - Engineering: [Ariel Melendez](https://github.com/arielmelendez) / [Dylan Fiedler](https://github.com/dtfiedler) / [David Whittington](https://github.com/djwhitt)
 - Business: [Phil Matars](https://x.com/vilenarios?lang=en), [Jonathan Policke](https://x.com/JonnieSparkles)
+
+---
 
 ### Grants Support
 
