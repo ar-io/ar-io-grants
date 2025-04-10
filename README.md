@@ -103,7 +103,7 @@ Members of the AR.IO Foundation and Permanent Data Solutions Inc who understand 
 - Ecosystem: [William Kempster](https://x.com/kempsterrrr)
 - Marketing: [Jenny LaVelle](https://x.com/jennymlavelle)
 - Design: [Lucas Porter-Bakker](https://x.com/porterbakker)
-- Engineering: [Ariel](https://github.com/arielmelendez) / [Dylan](https://github.com/dtfiedler) / [David](https://github.com/djwhitt)
+- Engineering: [Ariel Melendez](https://github.com/arielmelendez) / [Dylan Fiedler](https://github.com/dtfiedler) / [David Whittington](https://github.com/djwhitt)
 - Business: [Phil Matars](https://x.com/vilenarios?lang=en), [Jonathan Policke](https://x.com/JonnieSparkles)
 
 ### Grants Support
