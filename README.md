@@ -25,7 +25,8 @@ If you're interested in offer a proposal that doesn't fit into these areas pleas
 
 Most applications will take the form of "Open Proposals" from members of the AR.IO community. Grants of up to $50,000 are available to fund ideas from individuals, teams and enterprises that support the growth, utility or adoption of [AR.IO](http://AR.IO) Network.
 
-[Apply for an Open Grant]([url](https://github.com/ar-io/ar-io-grants/issues/new/choose)) || [Please review Application Guidelines]([url](https://github.com/ar-io/ar-io-grants?tab=readme-ov-file#open-proposal-application-guidelines))
+If you're interested in submitting an Open Proposal please follow the [application guidlines](#application-guidelines) below!
+
 
 ---
 
