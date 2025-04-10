@@ -37,7 +37,7 @@ More info on RFPs coming soon!
 
 ---
 
-## How to apply for a Grant?
+## Application Guidelines
 
 *Note: Guidlines for RFPs will be defined seperately when an RFP is posted*
 
