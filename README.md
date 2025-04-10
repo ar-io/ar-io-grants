@@ -15,7 +15,7 @@ Below are the areas in which we're currently most interested in receiving grants
 
 - **Community and Education:** Documentation, tutorials, starter kits, example implementations and educational content.
 
-If you're interested in offer a proposal that doesn't fit into these areas please reach out either directly via [email](mailto:will@ar.io?subject=Grants%20Inquiry) or in the grants channel in our [discord](https://discord.com/invite/HGG52EtTc2).
+If you're interested in offer a proposal that doesn't fit into these areas please reach out either directly via [email](mailto:will@ar.io?subject=Grants%20Inquiry) or in the grants channel in our [discord](https://discord.com/invite/HGG52EtTc2). We appreciate any and all ideas and the focus areas may evolve over time based on feedback and interest from the community.
 
 ## Grant Types
 
@@ -61,16 +61,24 @@ When making an application for a grant, it is important to consider how the elig
 | Amount   | $250 - $5,000                                                                                                                                                                                                                                               | $5,000 - $25,000                                                                                                                                                                                                                                                                                                 | $25,000 - $50,000                                                                                                                                                                                                                                                                                                 |
 | Eligibility | <ul><li>Open to anyone</li><li>Some prior relevant domains experience is required</li><li>Should demonstration some contribution to the improving the growth, adoption or utility of the network</li><li>Single milestone, paid on completion.</li></ul> | <ul><li>Open to teams and enterprises.</li><li>Proven domain experience and track record of delivery.</li><li>Demonstrates meaningful contribution to the growth, adoption or utility of the network.</li><li>Deliverables and funding broken down into milestones, payments made on competition of each milestone.</li></ul> | <ul><li>Open to teams and enterprises</li><li>Significant domain experience and track record of delivery.</li><li>Demonstrates significant contribution to the growth, adoption or utility of the network</li><li>Deliverables and funding broken down into milestones, payments made on competition of each milestone.</li></ul> |
 
+### Licensing
+
+#### Open Source requirement
+By default, all work funded via the grants program should be open-source using [NEED TO DECIDE LICENSE(S)].
+
+### Closed sourced exceptions
+Expections may be made on a case-by-case basis for integrations with exissting ecosystme tooling. These proposal should have the potential for significant imapct on the growth, adoption and utility of the AR.IO Network to be conisdered. If a closed source exception is granted, the Grantee must provided a detailed techincal write-up of the integration to be shared publicly with the AR.IO Community.
+
 ### Evaluation Criteria
 
 The Grants committee will evaluate applications based on the following criteria:
 
 | **Criteria**    | **Description**                                                                            |
 |-----------------|--------------------------------------------------------------------------------------------|
-| Impact          | Will this grant directly and positive impact the [AR.IO](http://AR.IO) Ecosystem.          |
-| Experience      | Do the grantees have the relevant knowledge to deliver the project successfully.           |
-| Feasibility     | Is the grant sufficiently scoped with clear and achievable milestones.                     |
-| Mission/Vision  | Does the grant align with the mission/vision of [AR.IO](http://AR.IO) Network.             |
+| Impact          | Will this proposal directly and positively impact the [AR.IO](http://AR.IO) Ecosystem.          |
+| Experience      | Do the grantees have the relevant knowledge to deliver the proposal successfully.           |
+| Feasibility     | Is the proposal sufficiently scoped with clear and achievable milestones.                     |
+| Mission/Vision  | Does the proposal align with the mission/vision of [AR.IO](http://AR.IO) Network.             |
 
 ### Milestone Reporting
 
@@ -100,4 +108,4 @@ Members of the AR.IO Foundation and Permanent Data Solutions Inc who understand 
 
 ### Grants Support
 
-If you have any questions about the grants program or require support, please reach out in the grants channel in [Discord](https://discord.com/invite/HGG52EtTc2).
+If you have any questions about the grants program or require support, please reach out in the grants channel in [Discord](https://discord.com/invite/HGG52EtTc2) or [email us](mailto:will@ar.io?subject=Grants%20Inquiry) directly.
