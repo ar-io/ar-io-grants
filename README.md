@@ -64,7 +64,17 @@ When making an application for a grant, it is important to consider how the elig
 ### Licensing
 
 #### Open Source requirement
-By default, all work funded via the grants program should be open-source using [NEED TO DECIDE LICENSE(S)].
+By default, all work funded via the grants program should be open-source and publicly available using one of the approaved licensisng options:
+
+1. Permissive Licenses - MIT or Apache 2.0
+Use for tools, libraries or widely resuable code
+
+2. Copyleft Licenses - GPLv3, AGPLv3 (for hosted services)
+Use for governance tools, infrastrucutre, or systems where opennes must be presereved.
+
+3. Dual Licensing (Recommended)
+Combine a copyleft license (e.g. AGPLv3) with a permissive license (e.g. Apache 2.0). Encourages adoption while protecting openness.
+
 
 #### Closed sourced exceptions
 Expections may be made on a case-by-case basis for integrations with exissting ecosystme tooling. These proposal should have the potential for significant imapct on the growth, adoption and utility of the AR.IO Network to be conisdered. If a closed source exception is granted, the Grantee must provided a detailed techincal write-up of the integration to be shared publicly with the AR.IO Community.
