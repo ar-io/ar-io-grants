@@ -66,7 +66,7 @@ When making an application for a grant, it is important to consider how the elig
 #### Open Source requirement
 By default, all work funded via the grants program should be open-source using [NEED TO DECIDE LICENSE(S)].
 
-### Closed sourced exceptions
+#### Closed sourced exceptions
 Expections may be made on a case-by-case basis for integrations with exissting ecosystme tooling. These proposal should have the potential for significant imapct on the growth, adoption and utility of the AR.IO Network to be conisdered. If a closed source exception is granted, the Grantee must provided a detailed techincal write-up of the integration to be shared publicly with the AR.IO Community.
 
 ### Evaluation Criteria
