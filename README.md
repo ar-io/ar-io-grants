@@ -52,7 +52,7 @@ More info on RFPs coming soon!
 
 3. If your proposal is accepted, you'll be required to review and sign the grant agreement before commencing work. Grants should not be treated as final or the funding approved until the grant agreement has been signed by both parties.
 
-*If you need support for during grant application, please reach out to the #grants channel in our [Discord](https://discord.com/invite/HGG52EtTc2) or [email us](mailto:will@ar.io?subject=Grants%20Inquiry) directly.*
+_**Important disclaimer:** grant proposals must follow the provided guidelines and templates otherwise risk being immediately rejected. If you have questions or need support for during grant application, please reach out to the #grants channel in our [Discord](https://discord.com/invite/HGG52EtTc2) or [email us](mailto:will@ar.io?subject=Grants%20Inquiry) directly._
 
 ### Funding Levels & Eligibility
 
