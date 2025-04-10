@@ -3,6 +3,7 @@
 The [AR.IO](http://AR.IO) Foundation functions as the steward of the network, balancing its growth and development with a commitment to the community's needs and the network's foundational ethos. In support of this role, The [AR.IO](http://AR.IO) Foundation has developed a grants program to help empower and incentivise the [AR.IO](http://AR.IO) community to contribute to the Network's long-term success.
 
 ## Grant Focus Areas
+Below are the areas in which we're currently most interested in receiving grants proposals.
 
 - **Developer Experience:** Tools, SDKs, libraries or products that close experience gaps for developers building on [AR.IO](http://AR.IO) Network (Storage, Gateways, Domains).
 
@@ -13,6 +14,8 @@ The [AR.IO](http://AR.IO) Foundation functions as the steward of the network, ba
 - **Gateway Infrastructure and specialised implementations:** Tools for Gateway Operators, specialised gateway implementations for specific use-cases, extending gateway functionality or performance optimisations.
 
 - **Community and Education:** Documentation, tutorials, starter kits, example implementations and educational content.
+
+If you're interested in offer a proposal that doesn't fit into these areas please reach out either directly via [email](mailto:will@ar.io?subject=Grants%20Inquiry) or in the grants channel in our [discord](https://discord.com/invite/HGG52EtTc2).
 
 ## Grant Types
 
@@ -34,19 +37,19 @@ More info on RFPs coming soon!
 
 ---
 
-## Open Proposal Application Guidelines
+## How to apply for a Grant?
 
-*Note: Guidlines for RFPs will be defined specific to each RPF posted.*
+*Note: Guidlines for RFPs will be defined seperately when an RFP is posted*
 
-### Application Process
+### Open Proposal Application Processs
 
-1. Create a new issue on this repo using the `Open Proposal` template.
+1. [Create a new issue]([url](https://github.com/ar-io/ar-io-grants/issues/new?template=open-proposal.md)) on this repo using the `Open Proposal` template.
 
-2. The Grants Committee will complete an initial review and provide feedback generally within 2 weeks of your grant being posted. Some grants may be rejected at this stage or require further clarification or amendments before being accepted.
+2. The Grants Committee will complete an initial review and provide feedback generally within 2 weeks of your proposal being posted. Some proposals may be rejected at this stage or require further clarification or amendments before being possibly accepted.
 
-3. If your grant is accepted, you'll be required to review and sign the grant agreement before commencing work. Grants should not be treated as final or the funding approved until the grant agreement has been signed by both parties.
+3. If your proposal is accepted, you'll be required to review and sign the grant agreement before commencing work. Grants should not be treated as final or the funding approved until the grant agreement has been signed by both parties.
 
-*If you need support for during grant application, please reach out to the #grants channel in our Discord.*
+*If you need support for during grant application, please reach out to the #grants channel in our [Discord](https://discord.com/invite/HGG52EtTc2) or [email us](mailto:will@ar.io?subject=Grants%20Inquiry) directly.*
 
 ### Funding Levels & Eligibility
 
