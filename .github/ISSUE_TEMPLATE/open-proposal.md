@@ -37,13 +37,17 @@ assignees: ""
 ### Summary
 <!-- Provide a brief (1-2 paragraph) summary of your project -->
 
-### Impact
+### Mission / Vision Alignment
+<!-- Explain how this project aligns with the mission and vision of AR.IO Network -->
+
+### Impact Impact
 <!-- Explain how this project will positively impact the AR.IO Ecosystem -->
 <!-- Who is the target audience for your proposal and how are you planning to engage them? -->
 <!-- How will you measure the success of this project? What KPIs or metrics will you use? -->
 
-### Differentiation
-<!-- How is your approach different/better than existing solutions (if any)? -->
+### Innovation
+<!-- Explain the core innovation the your idea or project brings to the AR.IO Ecosystem -->
+<!-- How is your project or idea different/better thatn existing solutions (if any, show examples)? -->
 
 ## Team Experience & Background
 
