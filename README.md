@@ -19,7 +19,7 @@ Below are the areas in which we're currently most interested in receiving grants
 
 - **Community and Education:** Documentation, tutorials, starter kits, example implementations and educational content.
 
-If you're interested in offer a proposal that doesn't fit into these areas please reach out either directly via [email](mailto:will@ar.io?subject=Grants%20Inquiry) or in the grants channel in our [discord](https://discord.com/invite/HGG52EtTc2). We appreciate any and all ideas and the focus areas may evolve over time based on feedback and interest from the community.
+If you're interested in submitting a proposal that doesn't fit into these areas please reach out either directly via [email](mailto:will@ar.io?subject=Grants%20Inquiry) or in the grants channel in our [discord](https://discord.com/invite/HGG52EtTc2). We appreciate any and all ideas and the focus areas may evolve over time based on feedback and interest from the community.
 
 ## Grant Types
 
