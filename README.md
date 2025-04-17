@@ -13,6 +13,8 @@ Below are the areas in which we're currently most interested in receiving grants
 
 - **Search and Discovery:** products or tooling that utilises [AR.IO](http://AR.IO) Network to improve the indexing, search and discoverability of content on the permaweb.
 
+- **Innovative Products or Applications**: products or applications built on-top of or utilizing Arweave Name System (ArNS) or Gateways that drive adoption and growth of the network.
+
 - **Gateway Infrastructure and specialised implementations:** Tools for Gateway Operators, specialised gateway implementations for specific use-cases, extending gateway functionality or performance optimisations.
 
 - **Community and Education:** Documentation, tutorials, starter kits, example implementations and educational content.
