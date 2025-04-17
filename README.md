@@ -81,7 +81,7 @@ Combine a copyleft license (e.g. AGPLv3) with a permissive license (e.g. Apache 
 
 
 #### Closed sourced exceptions
-Expections may be made on a case-by-case basis for integrations with exissting ecosystme tooling. These proposal should have the potential for significant imapct on the growth, adoption and utility of the AR.IO Network to be conisdered. If a closed source exception is granted, the Grantee must provided a detailed techincal write-up of the integration to be shared publicly with the AR.IO Community.
+Expections may be made on a case-by-case basis for integrations with exissting ecosystem tooling. These proposal should have the potential for significant imapct on the growth, adoption and utility of the AR.IO Network to be conisdered. If a closed source exception is granted, the Grantee must provided a detailed techincal write-up of the integration to be shared publicly with the AR.IO Community.
 
 ### Evaluation Criteria
 
