@@ -1,4 +1,4 @@
-> **NOTE - The Grants Program is currently only avialable to our friends at Arweave India and the teams attending Hacker House 4. The public launch of the program will be announced soon!**
+> **NOTE - The Grants Program is currently being soft-launched with our friends at Arweave India and applications are only being accepted from teams attending Hacker House 4. A public launch will be announced soon!**
 
 # AR.IO Foundation Grant Program
 
