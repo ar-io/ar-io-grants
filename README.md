@@ -1,13 +1,15 @@
-> **NOTE - The Grants Program is currently being soft-launched with our friends at Arweave India and applications are only being accepted from teams attending Hacker House 4. A public launch will be announced soon!**
-
 # AR.IO Foundation Grant Program
 
 The [AR.IO](http://AR.IO) Foundation functions as the steward of the network, balancing its growth and development with a commitment to the community's needs and the network's foundational ethos. In support of this role, The [AR.IO](http://AR.IO) Foundation has developed a grants program to help empower and incentivise the [AR.IO](http://AR.IO) community to contribute to the Network's long-term success.
 
+## Important Note
+
+The Grants Program is currently being soft-launched with our friends at Arweave India and applications are only being accepted from teams attending Hacker House 4. The program will be made available to the wider community very soon!
+
 ## Grant Focus Areas
 Below are the areas in which we're currently most interested in receiving grants proposals.
 
-- **Developer Experience:** Tools, SDKs, libraries or products that close experience gaps for developers building on [AR.IO](http://AR.IO) Network (Storage, Gateways, Domains).
+- **Developer Experience:** Tools, SDKs, libraries or products that improve the UX for developers building on [AR.IO](http://AR.IO) Network (Storage, Gateways, Domains).
 
 - **Integrations:** Integrating [AR.IO](http://AR.IO) Network with popular existing tools and developer libraries.
 
