@@ -4,7 +4,7 @@ The [AR.IO](http://AR.IO) Foundation functions as the steward of the network, ba
 
 ## Important Note
 
-The Grants Program is currently being soft-launched with our friends at Arweave India and applications are only being accepted from teams attending Hacker House 4. The program will be made available to the wider community very soon!
+The Grants Program is currently being soft-launched with our friends at Arweave India and we are currently only accepting from teams attending Hacker House 4. The program will be made available to the wider community very soon!
 
 ## Grant Focus Areas
 Below are the areas in which we're currently most interested in receiving grants proposals.
