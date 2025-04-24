@@ -27,12 +27,17 @@ If you're interested in submitting a proposal that doesn't fit into these areas 
 
 ---
 
-### Open Proposals
+### Micro Grants
+Micro Grants of up to $1,000 are available to any member of the AR.IO Community for small, tightly scoped pieces of work that help grow the AR.IO Network and can be delivered within 2 - 4 weeks. These grants are paid upon successful delivery, and we aim to review applications within one week.
 
-Most applications will take the form of "Open Proposals" from members of the AR.IO community. Grants of up to $50,000 are available to fund ideas from individuals, teams and enterprises that support the growth, utility or adoption of [AR.IO](http://AR.IO) Network.
+Examples of eligible micro grants include: articles, tutorials, starter kits, video content, community engagement efforts and small integrations with ecosystem tooling.
+
+To submit a Micro Grant please create an Issue using the Migro Grants template and follow the instructions included there.
+
+### Open Proposals
+Open Proposals are available to individuals, teams and enterprise for more significant contributions to support the growth, utility and adoption of AR.IO Network. Funding is available from $1,000 up to $50,000 depending on the size, scope and impact of the idea.
 
 If you're interested in submitting an Open Proposal please follow the [application guidlines](#application-guidelines) below!
-
 
 ---
 
