@@ -7,13 +7,13 @@ The [AR.IO](http://AR.IO) Foundation functions as the steward of the network, ba
 ## Grant Focus Areas
 Below are the areas in which we're currently most interested in receiving grants proposals.
 
-- **Developer Experience:** Tools, SDKs, libraries or products that improve the UX for developers building on [AR.IO](http://AR.IO) Network (Storage, Gateways, Domains).
-
-- **Integrations:** Integrating [AR.IO](http://AR.IO) Network with popular existing tools and developer libraries.
+- **Innovative Products or Applications**: products or applications built on-top of or utilizing Arweave Name System (ArNS) or Gateways that drive adoption and growth of the network.
 
 - **Search and Discovery:** products or tooling that utilises [AR.IO](http://AR.IO) Network to improve the indexing, search and discoverability of content on the permaweb.
 
-- **Innovative Products or Applications**: products or applications built on-top of or utilizing Arweave Name System (ArNS) or Gateways that drive adoption and growth of the network.
+- **Developer Experience:** Tools, SDKs, libraries or products that improve the UX for developers building on [AR.IO](http://AR.IO) Network (Storage, Gateways, Domains).
+
+- **Integrations:** Integrating [AR.IO](http://AR.IO) Network with popular existing tools and developer libraries.
 
 - **Gateway Infrastructure and specialised implementations:** Tools for Gateway Operators, specialised gateway implementations for specific use-cases, extending gateway functionality or performance optimisations.
 
