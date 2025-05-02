@@ -19,7 +19,7 @@ Below are the areas in which we're currently most interested in receiving grants
 
 - **Community and Education:** Documentation, tutorials, starter kits, example implementations and educational content.
 
-If you're interested in submitting a proposal that doesn't fit into these areas please reach out either directly via [email](mailto:will@ar.io?subject=Grants%20Inquiry) or in the grants channel in our [discord](https://discord.com/invite/HGG52EtTc2). We appreciate any and all ideas and the focus areas may evolve over time based on feedback and interest from the community.
+If you're interested in submitting a proposal that doesn't fit into these areas please reach out either directly via [email](mailto:grants@ar.io?subject=Grants%20Inquiry) or in the grants channel in our [discord](https://discord.com/invite/HGG52EtTc2). We appreciate any and all ideas and the focus areas may evolve over time based on feedback and interest from the community.
 
 ## Grant Types
 
@@ -43,11 +43,8 @@ If you're interested in submitting an Open Proposal please follow the [applicati
 
 From time-to-time, the AR.IO Foundation will propose work request to the community in the form of an RFP. All community members, small teams and companies are welcome to apply. Responses from multiple teams are expected, the AR.IO Foundation will then select the best response(s) and award the work to the team (s) that submitted it.
 
-OPEN:
-
-- Coming soon
-
-CLOSED:
+**Open:**
+- [Rewind - A Visual ArNS History Explorer](/RFPs/Rewind-a-Visual-ArNS-History-Explorer.md)
 
 ---
 
@@ -63,7 +60,7 @@ CLOSED:
 
 3. If your proposal is accepted, you'll be required to review and sign the grant agreement before commencing work. Grants should not be treated as final or the funding approved until the grant agreement has been signed by both parties.
 
-_**Important disclaimer:** grant proposals must follow the provided guidelines and templates otherwise risk being immediately rejected. If you have questions or need support for during grant application, please reach out to the #grants channel in our [Discord](https://discord.com/invite/HGG52EtTc2) or [email us](mailto:will@ar.io?subject=Grants%20Inquiry) directly._
+_**Important disclaimer:** grant proposals must follow the provided guidelines and templates otherwise risk being immediately rejected. If you have questions or need support for during grant application, please reach out to the #grants channel in our [Discord](https://discord.com/invite/HGG52EtTc2) or [email us](mailto:grants@ar.io?subject=Grants%20Inquiry) directly._
 
 ### Funding Levels & Eligibility
 
@@ -130,10 +127,10 @@ Members of the AR.IO Foundation and Permanent Data Solutions Inc who understand 
 - Marketing: [Jenny LaVelle](https://x.com/jennymlavelle)
 - Design: [Lucas Porter-Bakker](https://x.com/porterbakker)
 - Engineering: [Ariel Melendez](https://github.com/arielmelendez) / [Dylan Fiedler](https://github.com/dtfiedler) / [David Whittington](https://github.com/djwhitt)
-- Business: [Phil Mataras](https://x.com/vilenarios?lang=en), [Jonathan Policke](https://x.com/JonnieSparkles)
+- Business: [Phil Mataras](https://x.com/vilenarios), [Jonathan Policke](https://x.com/JonnieSparkles)
 
 ---
 
 ### Grants Support
 
-If you have any questions about the grants program or require support, please reach out in the grants channel in [Discord](https://discord.com/invite/HGG52EtTc2) or [email us](mailto:will@ar.io?subject=Grants%20Inquiry) directly.
+If you have any questions about the grants program or require support, please reach out in the grants channel in [Discord](https://discord.com/invite/HGG52EtTc2) or [email us](mailto:grants@ar.io?subject=Grants%20Inquiry) directly.
