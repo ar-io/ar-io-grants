@@ -43,7 +43,11 @@ If you're interested in submitting an Open Proposal please follow the [applicati
 
 From time-to-time, the AR.IO Foundation will propose work request to the community in the form of an RFP. All community members, small teams and companies are welcome to apply. Responses from multiple teams are expected, the AR.IO Foundation will then select the best response(s) and award the work to the team (s) that submitted it.
 
-More info on RFPs coming soon!
+OPEN:
+
+- Coming soon
+
+CLOSED:
 
 ---
 
