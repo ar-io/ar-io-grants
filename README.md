@@ -1,3 +1,5 @@
+<img src="img/ario-grants-banner.png" />
+
 # AR.IO Foundation Grant Program
 
 The [AR.IO](http://AR.IO) Foundation functions as the steward of the network, balancing its growth and development with a commitment to the community's needs and the network's foundational ethos. In support of this role, The [AR.IO](http://AR.IO) Foundation has developed a grants program to help empower and incentivise the [AR.IO](http://AR.IO) community to contribute to the Network's long-term success.
