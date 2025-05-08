@@ -7,13 +7,13 @@
 **Grant Level:** Large ($25,000 - $50,000)  
 **Maximum Accepted Proposal:** 1  
 
-### Project Overview
+## Project Overview
 
-**Background**
+### Background
 
 The Arweave Name System (ArNS) enables users to register friendly, permanent domain names for permaweb content, identities, sites, and applications. These names are represented by Arweave Name Tokens (ANTs), which are smart contracts powered by the AO Computer. ANTs are unique, transferrable, and tradable; however, there is currently no decentralized secondhand marketplace where users can trustlessly buy, sell, or auction registered names.
 
-**Objectives & Opportunity**
+### Objectives & Opportunity
 
 This project seeks to deliver a trustless, decentralized ArNS marketplace that allows:
 
@@ -24,9 +24,10 @@ This project seeks to deliver a trustless, decentralized ArNS marketplace that a
 This RFP does not prescribe a specific architecture or auction protocol. Applicants are encouraged to propose and justify innovative technical approaches that meet the trustlessness and decentralization goals.
 
 The marketplace will make the ArNS namespace more accessible, valuable, and usable across the ecosystem.
-### Scope of Work
 
-**Deliverables**
+## Scope of Work
+
+### Deliverables
 
 - Fully functional marketplace web application deployed via Arweave and accessible at an `ar://` ArNS name
 - ArNS Marketplace smart contract(s)/AO process(es) to manage listings, escrow, and settlements
