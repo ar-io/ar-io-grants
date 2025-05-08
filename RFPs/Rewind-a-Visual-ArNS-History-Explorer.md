@@ -125,7 +125,7 @@ Proposals will be evaluated based on the following:
 
 ## Resources
 
-- 📖 [AR.IO Whitepaper](https://whitepaper.ar.io)
+- 📖 [AR.IO White Paper](https://whitepaper.ar.io)
     
 - 🕰️ [Building a Rewindable Internet with ArNS](https://jonniesparkles.arweave.net/articles/building-a-rewindable-internet-with-arns.html)
     
