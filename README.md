@@ -45,7 +45,7 @@ From time-to-time, the AR.IO Foundation will propose work request to the communi
 
 **Open:**
 - [Rewind - A Visual ArNS History Explorer](/RFPs/Rewind-a-Visual-ArNS-History-Explorer.md) (Applications close: 2025-06-07)
-- [ArNS Marketplace - Trustless Name Trading on the Permaweb](/RFPs/ArNS-Marketplace-Trustless-Name-Trading-on-the-Permaweb.md) (Applications close: 2025-06-14)
+- [ArNS Marketplace - Trustless Name Trading on the Permaweb](/RFPs/ArNS-Marketplace-Trustless-Name-Trading-on-the-Permaweb.md) (Applications close: 2025-06-08)
 
 ---
 
