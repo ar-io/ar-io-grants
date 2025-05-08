@@ -72,7 +72,7 @@ The author(s) of this RFP will participate in reviewing proposals.
 - 📖 [AR.IO White Paper](https://whitepaper.ar.io)
 - 🏗️ [ar-io/ar-io-sdk](https://github.com/ar-io/ar-io-sdk)
 - 🧪 [Early POC via Bazar](https://docs.ar.io/guides/ants-on-bazar)
-- 💬 [AR.IO Discord](https://discord.com/invite/HGG52EtTc2) – Join the #grants channel
+- 💬 [AR.IO Discord](https://discord.com/invite/HGG52EtTc2) – Join the `#grants` channel
 
 ## How to apply?
   
@@ -80,7 +80,7 @@ To submit a proposal, create an issue on this repository using the "Open Proposa
   
 Proposals will be evaluated together once the general submission deadline is reached, whereby the reviewers for the RFP may provide feedback seeking clarification and amendments to your proposal before a final decision is made.
 
-If you have questions regarding this RFP please reach out in the grants channel in our Discord or [email](mailto:grants@ar.io?subject=Grants%20Inquiry) us directly.
+If you have questions regarding this RFP please reach out in the `#grants` channel in our Discord or [email](mailto:grants@ar.io?subject=Grants%20Inquiry) us directly.
 
 ## Terms and Conditions
 
