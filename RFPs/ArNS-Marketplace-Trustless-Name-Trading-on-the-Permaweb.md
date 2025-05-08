@@ -1,11 +1,11 @@
 **Title:** ArNS Marketplace - Trustless Name Trading on the Permaweb  
-**Author(s):** [Vilenarios](https://x.com/vilenarios), [JonnieSparkles](https://x.com/jonniesparkles), 
-**Issue Date:** 2025-05-08
-**Submission Deadline:** 2025-06-08
-**Review and Award Period:** Two weeks
+**Author(s):** [Vilenarios](https://x.com/vilenarios), [JonnieSparkles](https://x.com/jonniesparkles)  
+**Issue Date:** 2025-05-08  
+**Submission Deadline:** 2025-06-08  
+**Review and Award Period:** Two weeks  
 **Expected Timeframe:** 8-12 weeks  
 **Grant Level:** Large ($25,000 - $50,000)  
-**Maximum Accepted Proposal:** 1
+**Maximum Accepted Proposal:** 1  
 
 ### Project Overview
 
