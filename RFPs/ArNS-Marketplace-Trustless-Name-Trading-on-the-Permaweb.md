@@ -43,12 +43,15 @@ The marketplace will make the ArNS namespace more accessible, valuable, and usab
 ### Technical Specifications
 
 - Must be hosted entirely on the Permaweb (Arweave)
-- Must use ArNS for its primary domain (e.g. `market.ar.io`). Note that a 5+ character name lease may be sponsored by the Foundation.
+- Must use ArNS for its primary domain (e.g. `marketplace.ar.io`). Note that a 5+ character name lease may be sponsored by the Foundation.
 - Must support ANT ownership via the ArNS and AO smart contract standards
 - Must use AO for escrow logic (can build new or reuse protocols like FusionFi)
 - Must use ARIO token for all payments in v1
 - Must follow AR.IO SDK and ArNS registry protocols for name interactions
 - Must ensure no admin keys or centralized control of user funds or names
+
+### Alternative - Existing Marketplace Integrations
+Note: We also welcome integrations into existing decentralized name (DomainFi) marketplaces. If you're interested in extending current platforms instead of building a new one, please reach out to discuss!
 
 ### Evaluation Criteria
 
