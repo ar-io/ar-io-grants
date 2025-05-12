@@ -30,12 +30,12 @@ Micro Grants of up to $1,000 are available to any member of the AR.IO Community 
 
 Examples of eligible micro grants include: articles, tutorials, starter kits, video content, community engagement efforts and small integrations with ecosystem tooling.
 
-To submit a Micro Grant please create an Issue using the Migro Grants template and follow the instructions included there.
+To submit a Micro Grant please create an Issue using the Micro Grants template and follow the instructions included there.
 
 ### Open Proposals
 Open Proposals are available to individuals, teams and enterprise for more significant contributions to support the growth, utility and adoption of AR.IO Network. Funding is available from $1,000 up to $50,000 depending on the size, scope and impact of the idea.
 
-If you're interested in submitting an Open Proposal please follow the [application guidlines](#application-guidelines) below!
+If you're interested in submitting an Open Proposal please follow the [application guidelines](#application-guidelines) below!
 
 ---
 
@@ -51,9 +51,9 @@ From time-to-time, the AR.IO Foundation will propose work request to the communi
 
 ## Application Guidelines
 
-*Note: Guidlines for RFPs will be defined seperately when an RFP is posted*
+*Note: Guidelines for RFPs will be defined separately when an RFP is posted*
 
-### Open Proposal Application Processs
+### Open Proposal Application Process
 
 1. [Create a new issue]([url](https://github.com/ar-io/ar-io-grants/issues/new?template=open-proposal.md)) on this repo using the `Open Proposal` template.
 
@@ -70,25 +70,25 @@ When making an application for a grant, it is important to consider how the elig
 |          | **Small**                                                                                                                                                                                                                                                   | **Medium**                                                                                                                                                                                                                                                                                                       | **Large**                                                                                                                                                                                                                                                                                                        |
 |----------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Amount   | $1,000 - $5,000                                                                                                                                                                                                                                               | $5,000 - $25,000                                                                                                                                                                                                                                                                                                 | $25,000 - $50,000                                                                                                                                                                                                                                                                                                 |
-| Eligibility | <ul><li>Open to anyone</li><li>Some prior relevant domains experience is required</li><li>Should demonstration some contribution to the improving the growth, adoption or utility of the network</li><li>Deliverables and funding broken down into milestones, payments made on competition of each milestone.</li></ul> | <ul><li>Open to teams and enterprises.</li><li>Proven domain experience and track record of delivery.</li><li>Demonstrates meaningful contribution to the growth, adoption or utility of the network.</li><li>Deliverables and funding broken down into milestones, payments made on competition of each milestone.</li></ul> | <ul><li>Open to teams and enterprises</li><li>Significant domain experience and track record of delivery.</li><li>Demonstrates significant contribution to the growth, adoption or utility of the network</li><li>Deliverables and funding broken down into milestones, payments made on competition of each milestone.</li></ul> |
+| Eligibility | <ul><li>Open to anyone</li><li>Some prior relevant domains experience is required</li><li>Should demonstrate some contribution to the improving the growth, adoption or utility of the network</li><li>Deliverables and funding broken down into milestones, payments made on completion of each milestone.</li></ul> | <ul><li>Open to teams and enterprises.</li><li>Proven domain experience and track record of delivery.</li><li>Demonstrates meaningful contribution to the growth, adoption or utility of the network.</li><li>Deliverables and funding broken down into milestones, payments made on completion of each milestone.</li></ul> | <ul><li>Open to teams and enterprises</li><li>Significant domain experience and track record of delivery.</li><li>Demonstrates significant contribution to the growth, adoption or utility of the network</li><li>Deliverables and funding broken down into milestones, payments made on completion of each milestone.</li></ul> |
 
 ### Licensing
 
 #### Open Source requirement
-By default, all work funded via the grants program should be open-source and publicly available using one of the approaved licensisng options:
+By default, all work funded via the grants program should be open-source and publicly available using one of the approaved licensing options:
 
 1. **Permissive Licenses** - MIT or Apache 2.0
-Use for tools, libraries or widely resuable code
+Use for tools, libraries or widely reusable code
 
 2. **Copyleft Licenses** - GPLv3, AGPLv3 (for hosted services)
-Use for governance tools, infrastrucutre, or systems where opennes must be presereved.
+Use for governance tools, infrastructure, or systems where openness must be preserved.
 
 3. **Dual Licensing (Recommended)**
 Combine a copyleft license (e.g. AGPLv3) with a permissive license (e.g. Apache 2.0). Encourages adoption while protecting openness.
 
 
 #### Closed sourced exceptions
-Expections may be made on a case-by-case basis for integrations with exissting ecosystem tooling. These proposal should have the potential for significant imapct on the growth, adoption and utility of the AR.IO Network to be conisdered. If a closed source exception is granted, the Grantee must provided a detailed techincal write-up of the integration to be shared publicly with the AR.IO Community.
+Exceptions may be made on a case-by-case basis for integrations with existing ecosystem tooling. These proposal should have the potential for significant impact on the growth, adoption and utility of the AR.IO Network to be considered. If a closed source exception is granted, the Grantee must provide a detailed technical write-up of the integration to be shared publicly with the AR.IO Community.
 
 ### Evaluation Criteria
 
@@ -114,7 +114,7 @@ The Grant Committee will review the milestone submission and may issue comments 
 
 #### Milestone Payment
 
-Payments are usually processed within 14 days. Payments are made in ARIO to the wallet specific in the Grant Application. The exchange rate for ARIO will be calculated based on the price of ARIO on coingecko at time of payment.
+Payments are usually processed within 14 days. Payments are made in ARIO to the wallet specified in the Grant Application. The exchange rate for ARIO will be calculated based on the price of ARIO on coingecko at time of payment.
 
 Grant applications can be amended by the Grants Committee. However, this necessitates a reevaluation by the committee.
 
