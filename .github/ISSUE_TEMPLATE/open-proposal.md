@@ -80,3 +80,4 @@ assignees: ""
 - [ ] I am prepared to sign a grant agreement if my proposal is accepted
 - [ ] I will provide regular updates and milestone reports as required
 - [ ] I understand payment will be made in ARIO based on the exchange rate at time of payment
+- [ ] I confirm that neither our organization nor any of our employees, contractors, or executive leadership is located in, or a resident of, an OFAC-sanctioned country
