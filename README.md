@@ -2,18 +2,18 @@
 
 # AR.IO Foundation Grant Program
 
-The [AR.IO](http://AR.IO) Foundation functions as the steward of the network, balancing its growth and development with a commitment to the community's needs and the network's foundational ethos. In support of this role, The [AR.IO](http://AR.IO) Foundation has developed a grants program to help empower and incentivise the [AR.IO](http://AR.IO) community to contribute to the Network's long-term success.
+The AR.IO Foundation functions as the steward of the network, balancing its growth and development with a commitment to the community's needs and the network's foundational ethos. In support of this role, The AR.IO Foundation has developed a grants program to help empower and incentivise the AR.IO community to contribute to the Network's long-term success.
 
 ## Grant Focus Areas
 Below are the areas in which we're currently most interested in receiving grants proposals.
 
 - **Innovative Products or Applications**: products or applications built on-top of or utilizing Arweave Name System (ArNS) or Gateways that drive adoption and growth of the network.
 
-- **Search and Discovery:** products or tooling that utilises [AR.IO](http://AR.IO) Network to improve the indexing, search and discoverability of content on the permaweb.
+- **Search and Discovery:** products or tooling that utilises AR.IO Network to improve the indexing, search and discoverability of content on the permaweb.
 
-- **Developer Experience:** Tools, SDKs, libraries or products that improve the UX for developers building on [AR.IO](http://AR.IO) Network (Storage, Gateways, Domains).
+- **Developer Experience:** Tools, SDKs, libraries or products that improve the UX for developers building on AR.IO Network (Storage, Gateways, Domains).
 
-- **Integrations:** Integrating [AR.IO](http://AR.IO) Network with popular existing tools and developer libraries.
+- **Integrations:** Integrating AR.IO Network with popular existing tools and developer libraries.
 
 - **Gateway Infrastructure and specialised implementations:** Tools for Gateway Operators, specialised gateway implementations for specific use-cases, extending gateway functionality or performance optimisations.
 
@@ -44,7 +44,8 @@ If you're interested in submitting an Open Proposal please follow the [applicati
 From time-to-time, the AR.IO Foundation will propose work request to the community in the form of an RFP. All community members, small teams and companies are welcome to apply. Responses from multiple teams are expected, the AR.IO Foundation will then select the best response(s) and award the work to the team (s) that submitted it.
 
 **Open:**
-- [Rewind - A Visual ArNS History Explorer](/RFPs/Rewind-a-Visual-ArNS-History-Explorer.md)
+- [Rewind - A Visual ArNS History Explorer](/RFPs/Rewind-a-Visual-ArNS-History-Explorer.md) (Applications close: 2025-06-07)
+- [ArNS Marketplace - Trustless Name Trading on the Permaweb](/RFPs/ArNS-Marketplace-Trustless-Name-Trading-on-the-Permaweb.md) (Applications close: 2025-06-12)
 
 ---
 
@@ -95,11 +96,11 @@ The Grants committee will evaluate applications based on the following criteria:
 
 | **Criteria**    | **Description**                                                                            |
 |-----------------|--------------------------------------------------------------------------------------------|
-| Impact          | Will this proposal directly and positively impact the [AR.IO](http://AR.IO) Ecosystem.          |
+| Impact          | Will this proposal directly and positively impact the AR.IO Ecosystem.          |
 | Innovation      | What innovation does this grant bring to AR.IO Network that differentiates it from existing solutions.           |
 | Experience      | Do the grantees have the relevant knowledge to deliver the proposal successfully.           |
 | Feasibility     | Is the proposal sufficiently scoped with clear and achievable milestones.                     |
-| Mission/Vision  | Does the proposal align with the mission/vision of [AR.IO](http://AR.IO) Network.             |
+| Mission/Vision  | Does the proposal align with the mission/vision of AR.IO Network.             |
 
 ### Milestone Reporting
 

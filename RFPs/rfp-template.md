@@ -47,7 +47,7 @@ To submit a proposal, create an issue on this repository using the "Open Proposa
 
 Proposals will be evaluated together once the general submission deadline is reached, whereby the reviewers for the RFP may provide feedback seeking clarification and amendments to your proposal before a final decision is made.
 
-If you have questions regarding this RFP please reach out in the grants channel in our Discord or [email](mailto:grants@ar.io?subject=Grants%20Inquiry) us directly.
+If you have questions regarding this RFP please reach out in the `#grants` channel in our Discord or [email](mailto:grants@ar.io?subject=Grants%20Inquiry) us directly.
 
 ## Terms and Conditions
 
