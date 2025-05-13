@@ -33,7 +33,7 @@ The marketplace will make the ArNS namespace more accessible, valuable, and usab
 - ArNS Marketplace smart contract(s)/AO process(es) to manage listings, escrow, and settlements
 - Seller UI to list ArNS names, define price/auction parameters, and cancel active listings
 - Buyer UI to browse listings, bid/purchase, and view past auctions
-- Wallet support: login with Arweave wallet (Wander) and Ethereum wallet (MetaMask)
+- Wallet support: login with AO compatible (Arweave and EVM) browser extension wallets
 - Name ownership verification system via AO to ensure only rightful ANT owners can list
 - Escrow logic to transfer ARIO tokens to sellers upon sale completion
 - ANT transfer mechanism via reassignment or pre-signed mutation
