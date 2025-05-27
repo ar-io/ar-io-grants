@@ -52,11 +52,12 @@ assignees: ""
 ## Team Experience & Background
 
 <!-- Describe the relevant experience of each team member as it relates to this project -->
-<!-- For Medium and Large grant requests, please include links to previous work or GitHub profiles -->
+<!-- For Medium and Large grant requests, please include links to previous works, Github and social profiles -->
 
 ## Timeline & Milestones
 
 <!-- Break down your project into clear milestones with deliverables and estimated completion dates -->
+<!-- We encourage you to include docs and diagrams to help us understand your archicture and proposed solution -->
 <!-- For Medium and Large grants, payment will be made upon completion of each milestone -->
 <!-- Please copy and paste the sections below and complete for each milestone -->
 
@@ -67,7 +68,6 @@ assignees: ""
 #### Funding Amount
 
 #### Estimated Completion Timeline
-
 
 ## Additional Information
 
