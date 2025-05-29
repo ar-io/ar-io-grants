@@ -28,7 +28,7 @@ If you're interested in submitting a proposal that doesn't fit into these areas 
 ### Micro Grants
 Micro Grants of up to $1,000 are available to any member of the AR.IO Community for small, tightly scoped pieces of work that help grow the AR.IO Network and can be delivered within 2 - 4 weeks. These grants are paid upon successful delivery, and we aim to review applications within one week.
 
-Examples of eligible micro grants include: articles, tutorials, starter kits, video content, community engagement efforts and small integrations with ecosystem tooling.
+We’re specifically interested in technical content—tutorials, starter kits, or video demos—that showcase or explain how to use the AR.IO Network in novel ways or within ecosystems that currently lack examples of the AR.IO stack alongside their ecosystem tooling (e.g., other Layer 1s, languages, or protocols).
 
 To submit a Micro Grant please create an Issue using the Micro Grants template and follow the instructions included there.
 
