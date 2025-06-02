@@ -52,7 +52,7 @@ assignees: ""
 ## Team Experience & Background
 
 <!-- Describe the relevant experience of each team member as it relates to this project -->
-<!-- For Medium and Large grant requests, please include links to previous works, Github and social profiles -->
+<!-- Please include links to previous works, Github and social profiles for all requests -->
 
 ## Timeline & Milestones
 
