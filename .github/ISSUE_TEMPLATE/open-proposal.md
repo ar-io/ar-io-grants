@@ -69,9 +69,15 @@ assignees: ""
 
 #### Estimated Completion Timeline
 
+### Sustainability
+<!-- Describe how your project will be sustainable beyond the grant period. --> 
+<!-- What is your strategy for ongoing maintenance, community engagement, and funding once initial grant funds are utilized? --> 
+<!-- Outline any revenue models, partnerships, or cost-saving measures that will ensure long-term viability. -->
+
 ## Additional Information
 
 <!-- Any additional information that you think would be helpful for the Grants Committee -->
+
 
 ## Checklist
 
