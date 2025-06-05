@@ -44,7 +44,7 @@ If you're interested in submitting an Open Proposal please follow the [applicati
 From time-to-time, the AR.IO Foundation will propose work request to the community in the form of an RFP. All community members, small teams and companies are welcome to apply. Responses from multiple teams are expected, the AR.IO Foundation will then select the best response(s) and award the work to the team (s) that submitted it.
 
 **Open:**
-- [Rewind - A Visual ArNS History Explorer](/RFPs/Rewind-a-Visual-ArNS-History-Explorer.md) (Applications close: 2025-06-07)
+- [Rewind - A Visual ArNS History Explorer](/RFPs/Rewind-a-Visual-ArNS-History-Explorer.md) (Applications close: 2025-06-13)
 - [ArNS Marketplace - Trustless Name Trading on the Permaweb](/RFPs/ArNS-Marketplace-Trustless-Name-Trading-on-the-Permaweb.md) (Applications close: 2025-06-12)
 
 ---
