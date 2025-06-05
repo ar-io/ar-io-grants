@@ -1,7 +1,7 @@
 **Title:** Rewind - a Visual ArNS History Explorer  
 **Author(s):** [JonnieSparkles](https://x.com/jonniesparkles)  
 **Issue Date:** 2025-05-07  
-**Submission Deadline:** 2025-06-07  
+**Submission Deadline:** 2025-06-13  
 **Review and Award Period:** Two weeks  
 **Expected Development Timeframe:** 2-3 Months from grant award  
 **Grant Level:** Medium ($5,000 - $25,000)  
