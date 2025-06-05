@@ -17,7 +17,6 @@ Below are the areas in which we're currently most interested in receiving grants
 
 - **Gateway Infrastructure and specialised implementations:** Tools for Gateway Operators, specialised gateway implementations for specific use-cases, extending gateway functionality or performance optimisations.
 
-- **Community and Education:** Documentation, tutorials, starter kits, example implementations and educational content.
 
 If you're interested in submitting a proposal that doesn't fit into these areas please reach out either directly via [email](mailto:grants@ar.io?subject=Grants%20Inquiry) or in the grants channel in our [discord](https://discord.com/invite/HGG52EtTc2). We appreciate any and all ideas and the focus areas may evolve over time based on feedback and interest from the community.
 
@@ -28,7 +27,7 @@ If you're interested in submitting a proposal that doesn't fit into these areas 
 ### Micro Grants
 Micro Grants of up to $1,000 are available to any member of the AR.IO Community for small, tightly scoped pieces of work that help grow the AR.IO Network and can be delivered within 2 - 4 weeks. These grants are paid upon successful delivery, and we aim to review applications within one week.
 
-We’re specifically interested in technical content—tutorials, starter kits, or video demos—that showcase or explain how to use the AR.IO Network in novel ways or within ecosystems that currently lack examples of the AR.IO stack alongside their ecosystem tooling (e.g., other Layer 1s, languages, or protocols).
+We’re specifically interested in technical content—tutorials, starter kits, or demos—that showcase or explain how to use the AR.IO Network in novel ways or within ecosystems that currently lack examples of the AR.IO stack alongside their ecosystem tooling (e.g., other Layer 1s, languages, or protocols).
 
 To submit a Micro Grant please create an Issue using the Micro Grants template and follow the instructions included there.
 
