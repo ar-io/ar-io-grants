@@ -43,8 +43,8 @@ If you're interested in submitting an Open Proposal please follow the [applicati
 From time-to-time, the AR.IO Foundation will propose work request to the community in the form of an RFP. All community members, small teams and companies are welcome to apply. Responses from multiple teams are expected, the AR.IO Foundation will then select the best response(s) and award the work to the team (s) that submitted it.
 
 **Open:**
-- [Rewind - A Visual ArNS History Explorer](/RFPs/Rewind-a-Visual-ArNS-History-Explorer.md) (Applications close: 2025-06-13)
-- [ArNS Marketplace - Trustless Name Trading on the Permaweb](/RFPs/ArNS-Marketplace-Trustless-Name-Trading-on-the-Permaweb.md) (Applications close: 2025-06-12)
+- [Rewind - A Visual ArNS History Explorer](/RFPs/Rewind-a-Visual-ArNS-History-Explorer.md) (Applications closed)
+- [ArNS Marketplace - Trustless Name Trading on the Permaweb](/RFPs/ArNS-Marketplace-Trustless-Name-Trading-on-the-Permaweb.md) (Applications closed)
 
 ---
 
@@ -116,6 +116,12 @@ The Grant Committee will review the milestone submission and may issue comments 
 Payments are usually processed within 14 days. Payments are made in ARIO to the wallet specified in the Grant Application. The exchange rate for ARIO will be calculated based on the price of ARIO on coingecko at time of payment.
 
 Grant applications can be amended by the Grants Committee. However, this necessitates a reevaluation by the committee.
+
+#### Grant Modification and Termination Clause
+
+The Grants Committee reserves the right to amend, reduce, or terminate any grant or milestone - regardless of prior approval - if submitted work is determined to be inaccurate, misaligned with expectations, or consistently below quality standards. 
+
+This includes the right to halt future work and funding if the Committee deems continued development unproductive or non-impactful to the AR.IO Network. All decisions will be communicated clearly to the grantee with reasoning provided.
 
 ---
 
