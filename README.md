@@ -2,7 +2,7 @@
 
 > Please note, the 1st iteration of the AR.IO grants program has ended and **new grant applications are now closed**.
 >
-> If you are interested in building with AR.IO please see our [docs](https://docs.ar.io) or reach out via our [ecosystem form](pds-inc.typeform.com/ar-io-interest). Thanks to everyone who has particiatped, stay tuned for updates about the future of the grants program.
+> If you are interested in building with AR.IO please see our [docs](https://docs.ar.io) or reach out via our [ecosystem form](pds-inc.typeform.com/ar-io-interest). Thanks to everyone who has participated, stay tuned for updates about the future of the grants program.
 
 ---
 
