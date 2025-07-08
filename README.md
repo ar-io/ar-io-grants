@@ -1,3 +1,11 @@
+# Applications are closed
+
+> Please note, the 1st iteration of the AR.IO grants program has ended and **new grant applications are now closed**.
+>
+> If you are interested in building with AR.IO please see our [docs](https://docs.ar.io) or reach out via our [ecosystem form](pds-inc.typeform.com/ar-io-interest). Thanks to everyone who has particiatped, stay tuned for updates about the future of the grants program.
+
+---
+
 <img src="img/ario-grants-banner.png" />
 
 # AR.IO Foundation Grant Program
@@ -42,7 +50,7 @@ If you're interested in submitting an Open Proposal please follow the [applicati
 
 From time-to-time, the AR.IO Foundation will propose work request to the community in the form of an RFP. All community members, small teams and companies are welcome to apply. Responses from multiple teams are expected, the AR.IO Foundation will then select the best response(s) and award the work to the team (s) that submitted it.
 
-**Open:**
+**Closed:**
 - [Rewind - A Visual ArNS History Explorer](/RFPs/Rewind-a-Visual-ArNS-History-Explorer.md) (Applications closed)
 - [ArNS Marketplace - Trustless Name Trading on the Permaweb](/RFPs/ArNS-Marketplace-Trustless-Name-Trading-on-the-Permaweb.md) (Applications closed)
 
