@@ -131,6 +131,8 @@ The Grants Committee reserves the right to amend, reduce, or terminate any grant
 
 This includes the right to halt future work and funding if the Committee deems continued development unproductive or non-impactful to the AR.IO Network. All decisions will be communicated clearly to the grantee with reasoning provided.
 
+**Note:** Some grants - depending on their size and scope - may also require a formal Grant Agreement with the AR.IO Foundation. In such cases, both these guidelines and the Grant Agreement will be considered together, with the Grant Agreement taking precedence in the event of any conflict.
+
 ---
 
 ### Grants Committee
